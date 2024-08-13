@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, This is Raneem Ashraf 🫡</h1>
 <h3 align="center">A Mobile Application Developer 📱 </h3>
 
-<h3 align="center">I'm currently a trainee at ITI 💻. </h3>
+<h3 align="center">ITI Graduated 💻. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
